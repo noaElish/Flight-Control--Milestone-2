@@ -4,7 +4,7 @@
 
 #### Creators: 
 ##### Shira Turgeman & Noa Elishmereni
-#####  [our GitHub](https://github.com/noaElish/ex4)
+#####  [our GitHub](https://github.com/noaElish/milestone2)
 
 ### **Basic information**
 * Purpose of this extercise-
